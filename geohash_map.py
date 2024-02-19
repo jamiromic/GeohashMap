@@ -9,7 +9,7 @@ lon = 0.05218
 gh = geohash.encode(lat, lon)
 
 # Lista dei geohash, lasciarlo vuoto se si vuole utilizzare il sistema tramite coordinate lan,lon
-geohashes = []
+geohashes = ['s002ev']
 
 # Preparazione dei dati per la visualizzazione
 data = []
